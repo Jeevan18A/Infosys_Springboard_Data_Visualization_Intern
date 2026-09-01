@@ -279,6 +279,74 @@ The insights generated from the project can support:
 * **Resource Allocation** – Support better deployment of drivers and shared vehicles.
 * **Urban Mobility Management** – Enable data-driven planning for sustainable transportation systems.
 
+
+## 📊 Interactive Multi-Domain Dashboards
+
+### 🚗 Ride-Hailing & General Overview Dashboard
+
+Provides insights into ride-hailing operations, platform health, and customer demand.
+
+<img width="1289" height="872" alt="Screenshot 2026-08-24 162101" src="https://github.com/user-attachments/assets/641f2400-afbe-42aa-a8a7-b985ae475c9c" />
+<img width="1321" height="895" alt="Screenshot 2026-08-24 162125" src="https://github.com/user-attachments/assets/f92aae1f-fceb-473c-a0e2-69f5815c53ac" />
+
+
+#### Key Analysis
+* Total trips and revenue
+* Ride demand trends
+* Peak hours and high-demand periods
+* Driver performance
+* Average trip distance and duration
+* Cancellation patterns
+* Supply vs. Demand Gap (Wait time tracking)
+* CO2 emissions saved by integrating transit availability
+
+---
+
+### ☀️ Weather Intelligence Dashboard
+
+Analyzes weather conditions and their relationship with mobility patterns, modal shifts, and fare pricing.
+
+<img width="1311" height="863" alt="Screenshot 2026-08-24 162140" src="https://github.com/user-attachments/assets/b05dbb7c-0916-4a55-85ee-e7bcc279ccf0" />
+
+
+#### Key Analysis
+* Trip Demand & Average Fare by Weather Condition
+* Trip Duration vs Distance Distribution (Traffic & Speed Friction)
+* Slot Modal Shift tracking vehicle preferences throughout the day
+* Environmental Impact & Transit Availability Area metrics
+* Quantitative behavioral metrics across user types
+
+---
+
+### 🛴 Micro-Mobility Dashboard
+
+Analyzes shared micro-mobility usage such as bikes, scooters, and other lightweight transportation modes, segmented by demographics.
+
+<img width="1311" height="879" alt="Screenshot 2026-08-24 162158" src="https://github.com/user-attachments/assets/cc709390-0110-4116-adc6-ee6a1138ded2" />
+
+
+#### Key Analysis
+* Total micro-mobility trips by Region and Vehicle Type
+* Usage patterns by User Segment (Students, Working Professionals, Tourists, Senior Citizens)
+* Peak rental periods and timeslot shifts
+* Target trackers for Transit Connection, Schedule Adherence, and Bad Weather Ratios
+* Total revenue breakdown by micro-mobility vehicle type
+
+---
+
+### ⚖️ Equity & Service Rebalancing Dashboard
+
+Ensures the service remains accessible, fair, and reliable across all serviceable urban areas.
+
+<img width="1334" height="872" alt="Screenshot 2026-08-24 162325" src="https://github.com/user-attachments/assets/424772dd-f79c-436a-8864-8af0dc14a41c" />
+
+
+#### Key Analysis
+* High-Demand Rebalancing Zones identifying micromobility trip deficits
+* Service Gap Analysis mapping Wait Time against Demand Index by city
+* Usage tracking by users from different states
+* Fare Burden Ratio and Mobility Access Index tracking
+* Weather benchmark tracking against SLA goals
 ---
 
 ## 🚀 Getting Started
